@@ -1,4 +1,6 @@
-def Fibonacci(n:int) -> int:
+# Suite de Fibonacci
+
+def fibonacci(n:int) -> int:
 
     """
     Renvoie le n-ième nombre de Fibonacci (0-indexé).
